@@ -1,0 +1,22 @@
+.btn_tab_maps_delete_entity:hover
+{
+    cursor: pointer;
+    color:red;
+    box-shadow: 1px 1px 1px silver;;
+    font-size:16px;
+}
+.btn_tab_maps_save_entity:hover
+{
+    cursor: pointer;
+    color:rgb(24, 164, 230);
+    box-shadow: 1px 1px 1px silver;;
+    font-size:16px;
+}
+
+.btn_tab_maps_rowadd_entity:hover
+{
+    cursor: pointer;
+    color:rgb(24, 164, 230);
+    box-shadow: 1px 1px 1px silver;;
+    font-size:16px;
+}

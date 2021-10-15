@@ -1,0 +1,23 @@
+.open_rds:hover{
+cursor: pointer;
+color:skyblue;
+}
+
+.tab_link
+{
+    color:silver;
+    padding :10px 10px;;
+    outline:none;
+}
+
+.tab_link:hover
+{
+
+    cursor: pointer;
+}
+
+.tab_link:active
+{
+
+    color:skyblue;
+}

@@ -1,0 +1,47 @@
+#frm_create_entity table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #frm_create_entity td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 2px 8px;
+  }
+
+  #frm_create_entity   th {
+    background-color: skyblue;
+  }
+  #frm_create_entity   td {
+    background-color: rgb(210, 215, 218);
+  }
+
+  #frm_create_entity   td i {
+    color:black;
+    font-size: 14px;;
+  }
+
+  #frm_create_entity   td i:hover {
+    color:red;
+   cursor: pointer;
+  }
+
+
+  
+  /* #frm_create_entity tr:nth-child(even) {
+    background-color: #dddddd;
+  } */
+
+  #frm_create_entity tr td:nth-child(1) {
+    width: 30%;
+   }
+
+   #frm_create_entity tr td:nth-child(2) {
+    width: 50%;
+   }
+
+   #frm_create_entity tr td:nth-child(3) {
+    width: 5%;
+    text-align: center;
+   }

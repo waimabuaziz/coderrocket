@@ -1,0 +1,44 @@
+.col-dimgray
+{
+    color:dimgray !important;
+}
+
+.col-gray
+{
+    color:rgb(110, 104, 104) !important;
+}
+
+.box-shadow
+{
+box-shadow: 3px 3px 3px silver !important;
+}
+
+.tx-20
+{
+    font-size: 20px !important;
+}
+.tx-12
+{
+    font-size: 12px !important;
+}
+.tx-13
+{
+    font-size: 13px !important;
+}
+.tx-14
+{
+    font-size: 14px !important;
+}
+
+.clr-title
+{
+    color: silver !important;
+}
+.clr-header
+{
+    color: rgb(47, 159, 179) !important;
+}
+.clr-dimgray
+{
+    color:dimgray !important;
+}

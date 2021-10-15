@@ -1,0 +1,23 @@
+.tb_object_container
+{
+    float:left;
+    width:300px;;
+    background-color:whitesmoke;
+    box-shadow:2px 2px 2px silver;
+    margin:20px 20px;
+}
+
+.tb_object {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+   
+    max-height:350px;
+    overflow-y: scroll;
+  }
+  
+  .tb_object td,   .tb_object  th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 5px 8px;
+  }
+ 

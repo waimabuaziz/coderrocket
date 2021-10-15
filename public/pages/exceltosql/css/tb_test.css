@@ -1,0 +1,49 @@
+#tb_test th
+{
+    text-align: center;
+    background-color:silver;
+}
+
+#tb_test td
+{
+   border: 1px rgb(228, 222, 222) solid ; 
+   text-align: center;
+}
+
+
+#tb_test td:nth-child(6)
+ {
+    color:rgb(67, 202, 67);
+}
+
+
+
+#tb_test td:nth-child(8)
+ {
+    background-color: rgb(227, 238, 227);
+}
+#tb_test td:nth-child(9)
+ {
+    color:rgb(59, 181, 230);
+ }
+
+#tb_test td:nth-child(10)
+ {
+    color:rgb(67, 202, 67);
+}
+
+
+
+
+#tb_test tr:hover
+{
+    
+    color:red;
+}
+
+#tb_test .thtr:hover
+{
+    
+    color:black;
+}
+

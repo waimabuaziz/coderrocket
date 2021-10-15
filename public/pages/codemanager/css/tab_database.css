@@ -1,0 +1,112 @@
+#result_render_tab_database_tables
+{
+    background-color:silver;  
+    margin-left:140px;
+    margin-top:15px;
+
+}
+
+#tab_database .table-box
+{
+    position:relative;
+  float:left;
+  width:200px;
+  /* height:200px; */
+  background-color:whitesmoke;  
+  box-shadow: 1px 1px 1px silver;
+  border-radius: 5px;;
+  margin:10px;
+}
+#tab_database .table-box .table-title
+{
+  text-align:center;
+  color:rgb(61, 140, 172);
+  font-size:14px;
+   padding:5px 8px;
+   border-bottom:1px solid silver;
+}
+#tab_database .table-box .table-title .table-title-name
+{
+    padding:2px 4px;
+    margin-left:3px;
+    background-color:white;
+    font-size:14px;
+    font-weight:bold;
+    border-radius: 4px;
+    /* box-shadow: 1px 1px 1px silver;; */
+    color:dimgray;
+}
+ 
+
+
+#tab_database .badget-entity-type
+{
+    /* position:relative; */
+    /* top:-12px;
+    left:7px; */
+    padding:2px 4px;
+    margin-left:3px;
+    /* background-color:skyblue; */
+    font-size:9px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 1px silver;;
+}
+
+
+
+
+
+#tab_database table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #tab_database table td,   #tab_database table  th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 2px 8px;
+  }
+
+  
+  #tab_database  table    .span-fieldname  {
+    color:green;
+    font-size: 12px;;
+    margin-left:4px;
+  }
+
+  #tab_database  table    .span-datatype  {
+    color:black;
+    font-weight:bold;
+    font-size: 12px;;
+    margin-left:4px;
+  }
+  #tab_database  table    .span-datatype:before  {
+    content:'(';
+  }
+  #tab_database  table    .span-datatype:after  {
+    content:')';
+  }
+
+  #tab_database  table    .span-datalenght  {
+    color:green;
+    font-size: 12px;;
+    margin-left:2px;
+  }
+  #tab_database  table    .span-datalenght:before  {
+    content:',';
+  }
+
+  #tab_database  table    .span-isnull  {
+    color:skyblue;
+    font-size: 12px;;
+    margin-left:4px;
+  }
+
+
+
+
+
+
+   
+  
